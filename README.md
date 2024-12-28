@@ -1,4 +1,4 @@
-##Challenge Description 
+Challenge Description 
 
 Project: Hotel Booking Cancellation Prediction
 You are provided with a dataset of hotel bookings. The goal is to predict whether a booking will be canceled based on various features such as lead time, number of guests, meal preferences, and others.
